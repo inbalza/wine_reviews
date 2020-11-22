@@ -7,10 +7,7 @@
 #  - Author: Inbal Zaltsman                                 #
 #  - Description: Analysis of wine reviews dataset          #
 #  https://www.kaggle.com/zynicide/wine-reviews             #
-#  ``                                                       #
-#  V1.1                                                     #
-#  - Released: 19/1/2020                                    #
-#  - Frenchy tab added                                       #
+#  ``                                                       #                                
 #############################################################
 
 library(shiny)
